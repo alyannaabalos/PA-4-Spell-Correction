@@ -1,6 +1,7 @@
 # PA-4-Spell-Correction
 
 Programming Task
+
 Your task is to create a program that
 
 Takes an input w,
